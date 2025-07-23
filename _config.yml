@@ -1,0 +1,66 @@
+# SITE CONFIGURATION
+title: Multilingual Minds and Machines 2026 # your site title
+author: mmmm2026 # You :P
+description: > # Meta description of Homepage
+  This is a great workshop that will bring together amazing people.
+baseurl: "" # empty for now when running locally -- TODO: change later to /mmmm2026
+url: "https://mmmm2026.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO PLUGIN
+social:
+  name: Multilingual Minds and Machines 2026 Workshop
+  links:
+    - https://github.com/mmmm2026/
+    #- https://yourworkshopdomain.org
+
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Call for Abstracts', link: '/abstracts'}
+  - {name: 'Schedule', link: '/schedule'}
+  - {name: 'Contact', link: '/contact'}
+
+tagline: >
+  Workshop on Multilingual Language Processing
+
+hero_img: posts/chatgpt_placeholder.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: mmmm2026@ru.nl # email for form submission
+
+#twitter_username: mmmm2026 # replace with your_twitter_username or comment to remove link from footer
+#github_username:  mmmm2026 # replace with your_github_username or comment to remove link from footer
+#instagram_username: mmmm2026 # replace with your_instagram_username or comment to remove link from footer
+
+#disqus:
+#  shortname: mmmm2026 # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
