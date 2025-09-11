@@ -4,9 +4,13 @@ title: Call for Abstracts
 permalink: /abstracts/
 ---
 
-We will soon be accepting abstracts for the conference.
+We will soon be accepting submissions for brief abstracts for talks and short titles for poster presentations.
 
-Description of abstract requirements, etc.
+Submission deadline is **15 March 2026**.
 
-Please submit your abstract through **link here**.
+Notifications of acceptance will be issued **3 April 2026**.
+
+More information on the submisison types and instructions on how to submit will be added shortly.
+
+
 
