@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline: >
   Workshop on Multilingual Language Processing
 
-hero_img: posts/chatgpt_placeholder.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/IMG_9825.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: mmmm2026@ru.nl # email for form submission
 
