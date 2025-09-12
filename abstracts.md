@@ -10,7 +10,7 @@ Submission deadline is **15 March 2026**.
 
 Notifications of acceptance will be issued **3 April 2026**.
 
-More information on the submisison types and instructions on how to submit will be added shortly.
+More information on the submission types and instructions on how to submit will be added shortly.
 
 
 
