@@ -5,7 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Multilingual Minds and Machines 2026
+title: Multilingual Minds and Machines Meeting 2026
 ---
 <br>
 Computational modelling has long been a highly influential research method in the study of human language processing. In the last decade or so, the impact of computational simulations has further increased with the availability of models with human-scale knowledge of language statistics and the development of powerful linking functions (based on, for instance, information theory and distributional semantics) between model predictions and human processing, as well as the availability of large-scale, high resolution behavioural and neurophysiological language processing data sets.
