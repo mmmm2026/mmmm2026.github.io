@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Multilingual Minds and Machines 2026 # your site title
+title: Multilingual Minds and Machines Meeting 2026 # your site title
 author: mmmm2026 # You :P
 description: > # Meta description of Homepage
   This is a great workshop that will bring together amazing people.
@@ -8,7 +8,7 @@ url: "https://mmmm2026.github.io/" # the base hostname & protocol for your site,
 
 # SEO PLUGIN
 social:
-  name: Multilingual Minds and Machines 2026 Workshop
+  name: Multilingual Minds and Machines Meeting 2026
   links:
     - https://github.com/mmmm2026/
     #- https://yourworkshopdomain.org
