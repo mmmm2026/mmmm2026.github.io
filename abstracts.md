@@ -4,6 +4,8 @@ title: Call for Abstracts
 permalink: /abstracts/
 ---
 
+[Click here for the submission form.](https://radboudletteren.eu.qualtrics.com/jfe/form/SV_0Gs6oHy0j4fl1B4)
+
 Submission deadline is **15 March 2026**.
 
 Notifications of acceptance will be issued **3 April 2026**.
