@@ -4,8 +4,6 @@ title: Call for Abstracts
 permalink: /abstracts/
 ---
 
-[Click here for the submission form.](https://radboudletteren.eu.qualtrics.com/jfe/form/SV_0Gs6oHy0j4fl1B4)
-
 Submission deadline is **15 March 2026**.
 
 Notifications of acceptance will be issued **3 April 2026**.
@@ -15,6 +13,8 @@ MMMM has two types of abstract submission available: short and long abstracts. *
 The submission deadline for both types of submissions is **15 March 2026**.
 
 Notifications of acceptance will be issued **3 April 2026**.
+
+[Click here for the submission form.](https://radboudletteren.eu.qualtrics.com/jfe/form/SV_0Gs6oHy0j4fl1B4)
 
 ### Short abstracts (poster presentation):
 
