@@ -30,7 +30,7 @@ The organisers can be reached at <mmmm@ru.nl>
 
 #### Programme and venue
 
-The workshop will take place on June 22-23, 2026, at a to be determined location in Nijmegen, the Netherlands.
+The workshop will take place on June 22-23, 2026, at the Max Planck Institute (https://www.mpi.nl/page/visitors-newcomers) in Nijmegen, the Netherlands.
 
 In addition to the keynote presentations, there will be a small number of submitted talks, poster sessions, and ample opportunity for informal meetings and discussions including a dinner and a social event. Participation is free but places are limited. If registration exceeds availability, preference will be given to attendees with accepted talks or posters, to junior researchers/students, and to people from less represented countries and institutes.
 
