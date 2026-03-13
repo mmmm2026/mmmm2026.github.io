@@ -35,6 +35,6 @@ The workshop will take place on June 22-23, 2026, at the [Max Planck Institute f
 In addition to the keynote presentations, there will be a small number of submitted talks, poster sessions, and ample opportunity for informal meetings and discussions including a dinner and a social event. Participation is free but places are limited. If registration exceeds availability, preference will be given to attendees with accepted talks or posters, to junior researchers/students, and to people from less represented countries and institutes.
 
 #### Important dates
-- Submission deadline Posters/Talks: 15 March 2026
+- Submission deadline Posters/Talks: ~~15 March 2026~~ Deadline extended to 21 March 2026
 - Acceptance dates: 3 April 2026
 - Registration deadline: TBA
