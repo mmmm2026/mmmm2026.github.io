@@ -19,6 +19,19 @@ This workshop aims to bridge the gap between the scientific disciplines of multi
 - [Andrea de Varda](https://andrea-de-varda.github.io/) (MIT)
 - [Edith Kaan](https://blab.lin.ufl.edu/directory/dr-edith-kaan/) (University of Florida)
 
+#### Programme and venue
+
+##### Registration is now open, please register [here](https://radboudletteren.eu.qualtrics.com/jfe/form/SV_bd9FRsd0SgCnyJ0) by 1 May 2026
+
+The workshop will take place on June 22-23, 2026, at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/page/visitors-newcomers) in Nijmegen, the Netherlands.
+
+In addition to the keynote presentations, there will be a small number of submitted talks, poster sessions, and ample opportunity for informal meetings and discussions including a dinner and a social event. Participation is free but places are limited. If registration exceeds availability, preference will be given to attendees with accepted talks or posters, to junior researchers/students, and to people from less represented countries and institutes.
+
+#### Important dates
+- Submission deadline Posters/Talks: ~~15 March 2026~~ Deadline extended to 21 March 2026
+- Acceptance dates: 3 April 2026
+- Registration deadline: 1 May 2026
+
 #### Organisers
 - Stefan Frank
 - Kars Ligtenberg
@@ -28,13 +41,4 @@ Centre for Language Studies, Radboud University
 
 The organisers can be reached at <mmmm@ru.nl>
 
-#### Programme and venue
 
-The workshop will take place on June 22-23, 2026, at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/page/visitors-newcomers) in Nijmegen, the Netherlands.
-
-In addition to the keynote presentations, there will be a small number of submitted talks, poster sessions, and ample opportunity for informal meetings and discussions including a dinner and a social event. Participation is free but places are limited. If registration exceeds availability, preference will be given to attendees with accepted talks or posters, to junior researchers/students, and to people from less represented countries and institutes.
-
-#### Important dates
-- Submission deadline Posters/Talks: ~~15 March 2026~~ Deadline extended to 21 March 2026
-- Acceptance dates: 3 April 2026
-- Registration deadline: TBA
