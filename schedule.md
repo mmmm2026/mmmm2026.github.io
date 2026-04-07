@@ -33,8 +33,6 @@ permalink: /schedule/
 | 15.00 - 15.15 | Closing announcements |
 | 16.00 - ? | Social event |
 
----
-
 ## Poster session
 
 |Title|Presenter|
