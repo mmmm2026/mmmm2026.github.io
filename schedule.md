@@ -36,6 +36,7 @@ permalink: /schedule/
 ---
 
 ## Poster session
+
 |Title|Presenter|
 |-------------|-------------|
 |A Two-Layer Account of Cross-Linguistic Syntactic Priming Expectation Adaptation and Lexical Boost|Shiyue Huang|
