@@ -32,3 +32,28 @@ permalink: /schedule/
 | 14.00 - 15.00 | Keynote 3: Shared representations across languages in models and brains <br> **Andrea de Varda** |
 | 15.00 - 15.15 | Closing announcements |
 | 16.00 - ? | Social event |
+
+---
+
+## Poster session
+|  Title  |  Presenter |
+| ------------- | ------------- |
+| A Two-Layer Account of Cross-Linguistic Syntactic Priming Expectation Adaptation and Lexical Boost | Shiyue	Huang |
+| AgentMaze: An Automated Maze Distractor Generation Framework for Multilingual Incremental Processing Research | Cui	Ding |
+| BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data | Jaap	Jumelet |
+| Bilingual code-switch processing in natural conversation with EEG	| James	Baybaş |
+| Can SLA Language Models Better Predict Non-Native Reading Times? | Abderrahmane	Issam |
+| Cross-lingual Structural Priming in Humans and Language Models | Seth	Aycock |
+| Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English | Iza	Škrjanec |
+| L1 Influence in L2 Language Models: A Human-centric Approach | Lily	Goulder |
+| Modeling L1–L2 Differences in Binding Resolution During Sentence Processing	|	Demi	Zhang |
+| MultiBLiMP 2.0: A Massively Multilingual Benchmark for Evaluating Language Model Sensitivity to Word Order | Jaap	Jumelet |
+| Multilingual language comprehension in Large Language Models | Natalia	Moskvina |
+| On the separability of languages in the multilingual mind | Kevin	McGovern |
+| Parameter-Based Grammar Competition Models as Models of (Un)balanced Multilingualism | Sid	Bhushan |
+| Positional Bias in Vision Language Models During Multilingual Visual Word Recognition | Cui	Ding |
+| Socially conditioned prediction in bilingual code-switching: Implications for computational models | Hannah	Treadway |
+| Strategic Attention in Multilingual Academic Reading: Eye-Tracking Evidence for Metacognitive Regulation and Implications for Computational Modelling	| Mhd Ghaith Alturjman |
+| Studying the semantic and form preactivation in Simultaneous Bilinguals and Monolinguals from EEG Recordings using Representation Similarity Analysis (RSA) | Daniel Alberto Gross Ramírez |
+| Toward Cross-Linguistic Syntactic Annotation of Child-Adult Interactions | Francesca Padovani |
+| Tracking the time-course of bilingual speech: code-switching burstiness	| Kevin	McGovern |
