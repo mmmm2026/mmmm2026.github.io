@@ -35,9 +35,9 @@ permalink: /schedule/
 
 ## Poster session
 
-|Title|Presenter|
-|-------------|-------------|
-|A Two-Layer Account of Cross-Linguistic Syntactic Priming Expectation Adaptation and Lexical Boost|Shiyue Huang|
+||
+|-------------|
+|A Two-Layer Account of Cross-Linguistic Syntactic Priming Expectation Adaptation and Lexical Boost <br> Shiyue Huang|
 |AgentMaze: An Automated Maze Distractor Generation Framework for Multilingual Incremental Processing Research|Cui Ding|
 |BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data|Jaap Jumelet|
 |Bilingual code-switch processing in natural conversation with EEG|James Baybaş|
