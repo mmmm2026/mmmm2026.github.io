@@ -23,7 +23,7 @@ permalink: /schedule/
 |    |  Tuesday 23 June |
 | ------------- | ------------- |
 | 09.30 - 10.00 | Language-model based investigation of information structure in code-switched dialogue <br> **Fahima Ayub Khan**, Bill Noble  |
-| 10.00 - 11.00 | Parsing as Processing: A computational perspective on spoken code-switching <br> **Olga Kellert**, Olga Kellert, Nemika Tyagi |
+| 10.00 - 11.00 | Parsing as Processing: A computational perspective on spoken code-switching <br> **Olga Kellert**, Nemika Tyagi |
 | 10.30 - 11.00 | Coffee |
 | 11.00 - 11.30 | Bilingual language models as models of bilingualism: Reflecting on techniques <br> **Naomi Shapiro** |
 | 11.30 - 12.00 | Prediction under pressure: How dyslexia and second-language reading shape predictive sentence processing <br> **Sam Boeve**, Ella Salgado Figueroa, Louisa Bogaerts |
