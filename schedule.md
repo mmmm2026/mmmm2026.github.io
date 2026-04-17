@@ -11,7 +11,7 @@ permalink: /schedule/
 | 09.45 - 10.00 | Welcome <br> **Stefan Frank** |
 | 10.00 - 11.00 | Keynote 1: Language models and L2 sentence processing <br> **Edith Kaan** |
 | 11.00 - 11.30 | Coffee |
-| 11.30 - 12.00 | Signaling functions of code-switching: evidence from human bilinguals and large language models <br> **Onur Özsoy**, Onur Özsoy, Ziyue Liu, Michelle Vuong, Jacopo Torregrossa, Nils Reiter, Edith Kaan |
+| 11.30 - 12.00 | Signaling functions of code-switching: evidence from human bilinguals and large language models <br> **Onur Özsoy**, Ziyue Liu, Michelle Vuong, Jacopo Torregrossa, Nils Reiter, Edith Kaan |
 | 12.00 - 12.30 | Processing effects of code-switching in humans and LLMs <br> **Marina Sokolova**, Natalia Moskvina, Nayara Mirio e Silva |
 | 12.30 - 13.30 | Lunch |
 | 13.30 - 15.00 | Poster session |
