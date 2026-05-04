@@ -37,22 +37,18 @@ permalink: /schedule/
 
 ||
 |-------------|
-|_A Two-Layer Account of Cross-Linguistic Syntactic Priming Expectation Adaptation and Lexical Boost_ <br> **Shiyue Huang**|
 |_AgentMaze: An Automated Maze Distractor Generation Framework for Multilingual Incremental Processing Research_ <br> Junlin Li, **Cui Ding**, Lena Jäger |
 |_BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data_ <br> **Jaap Jumelet**, Abdellah Fourtassi, Akari Haga,  Bastian Bunzeck,  Bhargav Shandilya, Alex Warstadt, Faiz Ghifari Haznitrama, Francesca Padovani, Leshem Choshen, Arianna Bisazza |
 |_Bilingual code-switch processing in natural conversation with EEG_ <br> **James Baybaş**, Dorothy Yuxi Lin, Sharon Lu, Dr. Jonathan Brennan |
 |_Can SLA Language Models Better Predict Non-Native Reading Times?_ <br> **Abderrahmane Issam**|
-|_Cross-lingual Structural Priming in Humans and Language Models_ <br> **Seth Aycock**, Christof Monz, Khalil Sima'an, Stefan Frank |
 |_Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English_ <br> **Iza Škrjanec**, Irene E. Winther, Vera Demberg, Stefan L. Frank |
 |_L1 Influence in L2 Language Models: A Human-centric Approach_ <br> **Lily Goulder**, Laura Barbenel, Aoife O'Driscoll, Suchir Salhan, Catherine Arnett , Paula Buttery, Andrew Caines |
 |_Modeling L1–L2 Differences in Binding Resolution During Sentence Processing_ <br> **Demi Zhang**, Edith Kaan |
 |_MultiBLiMP 2.0: A Massively Multilingual Benchmark for Evaluating Language Model Sensitivity to Word Order_ <br> **Jaap Jumelet**, Leonie Weissweiler, Joakim Nivre, Arianna Bisazza |
 |_Multilingual language comprehension in Large Language Models_ <br> **Natalia Moskvina**, Raquel Montero, Masaya Yoshida, Ferdy Hubers, Paolo Morosi, Walid Irhaymi, Jin Yan, Elena Pagliarini, Fritz Günther, Evelina Leivada |
-|_On the separability of languages in the multilingual mind_ <br> **Kevin McGovern**, Matthew Carlson |
 |_Parameter-Based Grammar Competition Models as Models of (Un)balanced Multilingualism_ <br> **Sid Bhushan**|
 |_Positional Bias in Vision Language Models During Multilingual Visual Word Recognition_ <br> Jan Brasser, **Cui Ding**, Lena Jäger |
 |_Socially conditioned prediction in bilingual code-switching: Implications for computational models_ <br> **Hannah Treadway**, Jorge Valdés Kroff |
 |_Strategic Attention in Multilingual Academic Reading: Eye-Tracking Evidence for Metacognitive Regulation and Implications for Computational Modelling_ <br> **Mhd Ghaith Alturjman**|
 |_Studying the semantic and form preactivation in Simultaneous Bilinguals and Monolinguals from EEG Recordings using Representation Similarity Analysis (RSA)_ <br> **Daniel Alberto Gross Ramírez**, Giuseppe Dario Benigno, Marc Ouellet, Pedro Guijarro Fuentes |
 |_Toward Cross-Linguistic Syntactic Annotation of Child-Adult Interactions_ <br> **Francesca Padovani**, Jaap Jumelet, Yevgen Matusevych , Arianna Bisazza |
-|_Tracking the time-course of bilingual speech: code-switching burstiness_ <br> **Kevin McGovern**, Rena Torres Cacoullos |
