@@ -21,7 +21,7 @@ This workshop aims to bridge the gap between the scientific disciplines of multi
 
 #### Programme and venue
 
-##### Registration is now open, please register [here](https://radboudletteren.eu.qualtrics.com/jfe/form/SV_bd9FRsd0SgCnyJ0) by 1 May 2026
+##### Registration is now closed
 
 The workshop will take place on June 22-23, 2026, at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/page/visitors-newcomers) in Nijmegen, the Netherlands.
 
