@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LAB Special Issue -- Call for Abstracts
+title: LAB Special Issue - Call for Abstracts
 permalink: /LAB/
 ---
 
@@ -26,7 +26,8 @@ Timeline:
 -	Individual articles will be published online when accepted. The special issue will be Issue 4 of 2028.
 
 References
-Dijkstra, T., & Van Heuven, W. J. B. (2002). The architecture of the bilingual word recognition system: From identification to decision. Bilingualism: Language and Cognition, 5, 175-197. https://doi.org/0.1017/S1366728902003012
-Frank, S. L., & Khoe, Y. (2025). The Bilingual Dual-path model: Simulating bilingual production, comprehension, and development. Linguistic Approaches to Bilingualism, 15, 571-599. https://doi.org/10.1075/lab.23072.kho
+
+Dijkstra, T., & Van Heuven, W. J. B. (2002). The architecture of the bilingual word recognition system: From identification to decision. Bilingualism: Language and Cognition, 5, 175-197. https://doi.org/0.1017/S1366728902003012  
+Frank, S. L., & Khoe, Y. (2025). The Bilingual Dual-path model: Simulating bilingual production, comprehension, and development. Linguistic Approaches to Bilingualism, 15, 571-599. https://doi.org/10.1075/lab.23072.kho  
 Frank, S. L., & Shapiro, N. T. (2026). Connectionist models of second language acquisition and processing. In International Encyclopedia of Language and Linguistics.
 
