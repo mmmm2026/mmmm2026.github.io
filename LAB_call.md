@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Abstracts LAB Special Issue
+title: LAB Special Issue -- Call for Abstracts
 permalink: /LAB/
 ---
 
