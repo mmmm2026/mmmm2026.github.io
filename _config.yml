@@ -19,6 +19,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Call for Abstracts', link: '/abstracts'}
   - {name: 'Schedule', link: '/schedule'}
+  - {name: 'LAB Special Issue', link: '/LAB'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
