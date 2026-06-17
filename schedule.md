@@ -16,7 +16,7 @@ permalink: /schedule/
 | 12.30 - 13.30 | Lunch |
 | 13.30 - 15.00 | Poster session |
 | 15.00 - 15.30 | Structural priming and ungrammatical cross-linguistic influence in comprehension <br> **Giuseppe Dario Benigno**, Marta Rivera, Pedro Guijarro-Fuentes, Estela Garcia-Alcaraz |
-| 15.30 - 16.00 | Selective cross-linguistic influence in real-time L3 sentence processing: An empirical benchmark for multilingual models <br> **Pouran Seifi**, Marit Westergaard, Natalia Mitrofanova |
+| 15.30 - 16.00 | Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English <br> **Iza Škrjanec**, Irene E. Winther, Vera Demberg and Stefan L. Frank |
 | 16.00 - 17.00 | Keynote 2: Modeling cross-lingual differences in the vocabulary <br> **Lisa Beinborn** |
 | 17.00 - late | Drinks + BBQ |
 
