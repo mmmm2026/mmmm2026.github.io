@@ -1,6 +1,6 @@
 ## Getting to the venue
 
-![Picture of the MPI](https://raw.githubusercontent.com/mmmm2026/repo/main/assets/img/mpi.jpg)
+![Picture of the MPI](assets/img/posts/mpi.jpg)
 
 Buses 10, 6,15, 14 and 300 go from Nijmegen station to the MPI. Check [9292](https://9292.nl/) or a navigation app for times.
 
@@ -14,4 +14,4 @@ You can pay with contactless on all buses, remember to check out when you exit t
 
 Note that bus 58/SB58 is run by a German company and you may have issues paying for the ticket. 
 
-![Map of Nijmegen station](https://raw.githubusercontent.com/mmmm2026/repo/main/assets/img/nimma_station.jpeg)
+![Map of Nijmegen station](assets/img/posts/nimma_station.jpeg)
