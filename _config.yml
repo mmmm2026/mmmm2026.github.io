@@ -17,8 +17,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Call for Abstracts', link: '/abstracts'}
   - {name: 'Schedule', link: '/schedule'}
+  - {name: 'Information', link: '/info'}
+  - {name: 'Call for Abstracts', link: '/abstracts'}
   - {name: 'LAB Special Issue', link: '/LAB'}
   - {name: 'Contact', link: '/contact'}
 
