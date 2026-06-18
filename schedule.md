@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+[Click here to access the livestream](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvideoportal.mpi.nl%2FMediasite%2FChannel%2Fmmmm2026%2F&data=05%7C02%7Cirene.winther%40ru.nl%7C71732e8332a24b4e5c5c08decd0dca21%7C084578d9400d4a5aa7c7e76ca47af400%7C1%7C0%7C639173656318864240%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kFPfZ%2BYr8XzdyM5AzBFPTrxUdSFzCIzF2tR%2Bzn3qy14%3D&reserved=0)
+
 
 |    |  Monday 22 June |
 | ------------- | ------------- |
@@ -41,7 +43,6 @@ permalink: /schedule/
 |_BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data_ <br> **Jaap Jumelet**, Abdellah Fourtassi, Akari Haga,  Bastian Bunzeck,  Bhargav Shandilya, Alex Warstadt, Faiz Ghifari Haznitrama, Francesca Padovani, Leshem Choshen, Arianna Bisazza |
 |_Bilingual code-switch processing in natural conversation with EEG_ <br> **James Baybaş**, Dorothy Yuxi Lin, Sharon Lu, Dr. Jonathan Brennan |
 |_Can SLA Language Models Better Predict Non-Native Reading Times?_ <br> **Abderrahmane Issam**|
-|_Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English_ <br> **Iza Škrjanec**, Irene E. Winther, Vera Demberg, Stefan L. Frank |
 |_L1 Influence in L2 Language Models: A Human-centric Approach_ <br> **Lily Goulder**, Laura Barbenel, Aoife O'Driscoll, Suchir Salhan, Catherine Arnett , Paula Buttery, Andrew Caines |
 |_Modeling L1–L2 Differences in Binding Resolution During Sentence Processing_ <br> **Demi Zhang**, Edith Kaan |
 |_MultiBLiMP 2.0: A Massively Multilingual Benchmark for Evaluating Language Model Sensitivity to Word Order_ <br> **Jaap Jumelet**, Leonie Weissweiler, Joakim Nivre, Arianna Bisazza |
