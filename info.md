@@ -1,3 +1,8 @@
+## WiFi
+Network: "MPI Workshop"
+Password:   ws2223jun
+
+
 ## Getting to the venue
 
 ![Picture of the MPI](assets/img/posts/mpi.jpg)
