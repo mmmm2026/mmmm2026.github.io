@@ -1,5 +1,5 @@
 ## WiFi
-Network: "MPI Workshop"
+Network: "MPI Workshop" <br>
 Password:   ws2223jun
 
 
